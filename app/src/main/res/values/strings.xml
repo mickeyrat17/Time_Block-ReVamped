@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Time Block</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_delete_label">delete</string>
+    <string name="todo_title">To-Do List</string>
+    <string name="title">Title</string>
+    <string name="prompt">List Is Empty. Create A New Item.</string>
+    <string name="save_button">Save</string>
+    <string name="delete_button">Delete</string>
+    <string name="item_description">Item Description</string>
+    <string name="description">Description</string>
+    <string name="fill_text_view">Description is Missing!</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
